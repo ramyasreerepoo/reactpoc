@@ -1,5 +1,5 @@
 {
-  "name": "@ramyasreerepoo/reactrepo/reactpoc",
+  "name": "@ramyasreerepoo/reactpoc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +8,7 @@
     "react-scripts": "0.9.5"
   },
   "repository": {
-    "url": "https://github.com/ramyasreerepoo/reactrepo/reactpoc.git"
+    "url": "https://github.com/ramyasreerepoo/reactpoc.git"
   },
   "devDependencies": {},
   "scripts": {
